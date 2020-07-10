@@ -27,3 +27,4 @@ htmlcov/
 # Direnv
 .envrc
 .direnv
+test_external.sh
