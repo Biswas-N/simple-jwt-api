@@ -18,6 +18,7 @@ docs/_build/
 __pycache__
 .env_file
 trust.json
+venv
 
 # Coverage reports
 htmlcov/
